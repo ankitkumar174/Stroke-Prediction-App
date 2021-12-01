@@ -1,1 +1,1 @@
-web: gunicorn app:stroke app
+web: gunicorn app:stroke app.py
