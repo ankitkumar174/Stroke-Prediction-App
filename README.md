@@ -23,7 +23,8 @@ Contributions are always welcome!
 
 ## App Demo
 
-![video-to-gif-converter](https://user-images.githubusercontent.com/85494641/144584247-7545810d-5c9d-47fd-b814-5f22accc1068.gif)
+
+![video-to-gif-converter](https://user-images.githubusercontent.com/85494641/144584692-78287347-aa38-41c8-a2e1-ca0a12c8cbcd.gif)
 
 
 
